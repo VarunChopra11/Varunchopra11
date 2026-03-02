@@ -22,10 +22,10 @@
 
 ## 🚀 Projects
 
-- 🤖 **[Supogen](https://github.com/VarunChopra11/SupogenFE)** — Full-stack AI support agent: TypeScript/React frontend ([supogen.com](https://supogen.com)) + Python FastAPI backend with LLM-powered ticket resolution
+- 🤖 **[Supogen](https://github.com/VarunChopra11/SupogenFE)** — An AI support bot platform for SaaS teams that plugs into your Discord server and answers customer questions straight from your docs. [supogen.com](https://supogen.com)
 - 📧 **[Maileyo](https://github.com/VarunChopra11/Maileyo)** — AI-powered email client that remembers your conversation securely [maileyo.in](https://maileyo.in)
-- 👁️ **[VisionAssistant](https://github.com/VarunChopra11/VisionAssistant)** / **[Vision](https://github.com/VarunChopra11/Vision)** — AI-powered wearable for the visually impaired: real-time object detection + distance estimation using Realtek Amb82 Mini IoT camera module (Google Solution Challenge - Winner Best Responsible Use of AI.) [Video](https://www.youtube.com/watch?v=ZbnOU4rYpgY)
-- 🔌 **[pi_connect](https://github.com/VarunChopra11/pi_connect)** — If you've used Rasp, you know the struggle of changing WiFi credentials being headless. pi_connect solves this by allowing seamless network configuration via BLE + HMAC-SHA256 authentication, with a Web Bluetooth UI ([live](https://pi-connect-six.vercel.app))
+- 👁️ **[VisionAssistant](https://github.com/VarunChopra11/VisionAssistant)** / **[Vision](https://github.com/VarunChopra11/Vision)** — AI-powered wearable for the visually impaired: real-time object detection + distance estimation (Google Solution Challenge - Winner Best Responsible Use of AI.) [Video](https://www.youtube.com/watch?v=ZbnOU4rYpgY)
+- 🔌 **[pi_connect](https://github.com/VarunChopra11/pi_connect)** — If you've used Rasp, you know struggle of changing network creds being headless. pi_connect allows this headlessly.([live](https://pi-connect-six.vercel.app))
 - 🎙️ **[WakeWord](https://github.com/VarunChopra11/WakeWord)** — Wake word detection firmware for ESP32-S3-N16R8 using TFLite Micro, dual INMP441 mics, custom mel filterbank, and streaming INT8 inference at 240 MHz
 - 🗄️ **[natural_language_to_db_query](https://github.com/VarunChopra11/natural_language_to_db_query)** — Natural language → SQL query converter using LLMs and Python
 - 🔍 **[support_agent](https://github.com/VarunChopra11/support_agent)** — Lightweight Python prototype for autonomous support ticket triage using LLMs for supogen.com
@@ -69,11 +69,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunChopra11&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunChopra11&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Varunchopra11)
 
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Chopra-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunchopra11/)
+[![Website](https://img.shields.io/badge/Website-varunchopra.me-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://varunchopra.me)
+[![GitHub](https://img.shields.io/badge/GitHub-VarunChopra11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VarunChopra11/)
+[![Twitter](https://img.shields.io/badge/Twitter-@VarunChopra_11-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/VarunChopra_11)
 ---
 
 *Building embedded AI systems, autonomous robots, and full-stack web apps — always shipping.* 🚀
